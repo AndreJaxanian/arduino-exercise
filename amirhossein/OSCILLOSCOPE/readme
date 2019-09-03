@@ -1,0 +1,2 @@
+first upload the .ino code to Arduino Uno then run the python code , note that in the python code the "COMX" in line 15 should be match
+to your Arduino
